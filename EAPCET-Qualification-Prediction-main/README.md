@@ -1,0 +1,3 @@
+# EAPCET-Qualification-Prediction
+
+This project aims to predict the qualification status of students in the Andhra Pradesh Engineering, Agriculture, and Pharmacy Common Entrance Test (AP EAPCET) using various student-related features. The features considered for this prediction include intermediate marks, district, state, and region. To achieve accurate predictions, we employed three different machine learning algorithms: Support Vector Machine (SVM), Logistic Regression, and Decision Tree. After evaluating the performance of these models, the Decision Tree algorithm was found to yield the best results, providing a reliable tool for predicting student qualification status in the AP EAPCET examination.
